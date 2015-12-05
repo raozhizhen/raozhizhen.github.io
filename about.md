@@ -7,6 +7,7 @@ header-img: "img/green.jpg"
 
 
 姓名：饶志臻
+
 年龄：21
 
 ###我的朋友
@@ -16,6 +17,8 @@ header-img: "img/green.jpg"
 ###联系
 
 - [博客：raozhizhen.com](raozhizhen.com)
+- QQ:337519524
+- 邮箱：raozhizhen@gmail.com
 
 
 
