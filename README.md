@@ -4,6 +4,6 @@
 
 ##生命不息,Coding不止
 
-我是饶志臻，博客：[raozhizhen.com](raozhizhen.com)
+我是饶志臻，博客：[raozhizhen.com](http://raozhizhen.com)
 
 1和0叠加起了另一个世界，而我想在这个世界里塑造另一个自己
