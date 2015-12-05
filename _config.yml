@@ -8,7 +8,7 @@ url: "http://raozhizhen"
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: " RaoZhiZhen"
   email: raozhizhen@gmail.com
   bio: "写就是写的报酬"
 
@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+douban_username:  raozhizhen
+twitter_username: raozhizhen
+github_username: raozhizhen
+facebook_username: raozhizhen 
+weibo_username: raozhizhen 
+zhihu_username: raozhizhen
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -34,7 +34,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/BeiJing
 
 # Defaults for posts
 defaults:
@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "RaoZhiZhen"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
