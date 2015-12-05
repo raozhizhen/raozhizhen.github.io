@@ -2,7 +2,7 @@
 title: coding人生
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: “饶志臻|生命不息·coding不止”  
+description: “饶志臻|生命不息·coding不止”
 baseurl: ""
 url: "http://raozhizhen"  
 
@@ -10,18 +10,18 @@ url: "http://raozhizhen"
 owner: 
   name: " RaoZhiZhen"
   email: raozhizhen@gmail.com
-  bio: "写就是写的报酬"
+  bio: "生命不息·coding不止"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  raozhizhen
-twitter_username: raozhizhen
+douban_username:
+twitter_username: 
 github_username: raozhizhen
-facebook_username: raozhizhen 
-weibo_username: raozhizhen 
-zhihu_username: raozhizhen
+facebook_username:  
+weibo_username:  
+zhihu_username: jia-zhuang-zai-shang-ke-28
 
 # Build settings  
 # use Github Flavored Markdown !important  
