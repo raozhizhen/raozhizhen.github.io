@@ -14,11 +14,15 @@ header-img: "img/green.jpg"
 
 - [徐亚非](http://www.xuyafei.cn)
 
-###联系
+###联系我
 
 - [博客：raozhizhen.com](http://raozhizhen.com)
 - QQ:337519524
 - 邮箱：raozhizhen@gmail.com
+
+###我关注的博客
+- [伽蓝之堂:blog.ibireme.com](http://blog.ibireme.com)
+
 
 
 
