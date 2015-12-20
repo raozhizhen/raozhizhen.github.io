@@ -21,7 +21,7 @@ gif录制用的是[licecap](http://www.cockos.com/licecap/)不是很清晰啊，
 
 我比较喜欢先写.h，这样更能让我理清思路，就像写小说先写大纲一样
 
-![](https://github.com/raozhizhen/raozhizhen.github.io/blob/master/blogImage/LPTagCollectionViewImage)
+![](https://github.com/raozhizhen/raozhizhen.github.io/blob/master/blogImage/LPTagCollectionViewImage.png?raw=true)
 
 LPTagModel里一共三个属性 
 
