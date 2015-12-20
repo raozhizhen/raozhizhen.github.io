@@ -45,17 +45,6 @@ UICollectionView封装完毕（细节就不说了，有兴趣可以去[我的Git
 
 然后上面的collectionView，就是在最后一个item里放了一个UITextField,这样就可以输入添加新的标签了，输入标签的时候做了两个for循环，第一个for循环检查是否输入的是重复的标签，如果是的话，不添加新的标签，将重复的标签移动到最后一个，让用户知道添加了一个重复的标签（是的，我就是这么爱为用户考虑），实现是先移动数据源里的数据，再移动item，移动完成之后还需要更新一下collectionView的高度
 
-	[_selectedArray moveObjectFromIndex:i toIndex:_selectedArray.count - 1];
-            [_selectedCollectionView performBatchUpdates:^{
-                [_selectedCollectionView moveItemAtIndexPath:fromIndexPath toIndexPath:toIndexPath];
-            } completion:^(BOOL finished) {
-                if (finished) {
-                    [self updateSelectedCollectionView];
-                }
-            }];
-
-如果是删除的话，首先是添加了长按删除，以及直接按键盘上的delete键删除最后一个item，实现方式是，在输入框的开头放了一个空格，当要删除这个空格的时候，不执行删除，而删除最后一个item，虽然说显示方式看起来有点扭曲，但效果上还是很完美的。
-
 	- (BOOL)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string {
     if (range.length == 1 && range.location == 0) {
         if (self.delegate && [self.delegate respondsToSelector:@selector(deleteTag)]) {
@@ -64,7 +53,10 @@ UICollectionView封装完毕（细节就不说了，有兴趣可以去[我的Git
         return NO;
     }
     return YES;
-}
+    }
+
+如果是删除的话，首先是添加了长按删除，以及直接按键盘上的delete键删除最后一个item，实现方式是，在输入框的开头放了一个空格，当要删除这个空格的时候，不执行删除，而删除最后一个item，虽然说显示方式看起来有点扭曲，但效果上还是很完美的。
+
 
 
 好像也没有什么干货，重要是是分享一下自己解决问题的一些思路。如果有更好的实现方式，也希望能分享给我
