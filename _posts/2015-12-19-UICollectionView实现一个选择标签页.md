@@ -1,5 +1,5 @@
 ---
-date: 2015-12-04 11:18
+date: 2015-12-19 12:00
 status: public
 title: 'UICollectionView实现一个选择标签页'
 ---
@@ -10,7 +10,8 @@ title: 'UICollectionView实现一个选择标签页'
 	
 
 先上图	
-![](https://github.com/Light2015/SelectTag/blob/master/image.png) 
+![](https://github.com/raozhizhen/raozhizhen/blob/master/image.png) 
+
 
 gif录制用的是[licecap](http://www.cockos.com/licecap/)不是很清晰啊，有更好的推荐的留言哈
 
