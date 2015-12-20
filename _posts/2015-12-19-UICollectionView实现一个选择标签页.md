@@ -13,7 +13,7 @@ title: 'UICollectionView实现一个选择标签页'
 ![](https://github.com/raozhizhen/raozhizhen.github.io/blob/master/blogImage/LPSelectTagImage.png?raw=true) 
 
 
-gif录制用的是[licecap](http://www.cockos.com/licecap/)不是很清晰啊，有更好的推荐的留言哈
+gif录制用的是[licecap](http://www.cockos.com/licecap/)
 
 ![](https://github.com/raozhizhen/raozhizhen.github.io/blob/master/blogImage/LPSelectTagGif.gif?raw=true) 
 
