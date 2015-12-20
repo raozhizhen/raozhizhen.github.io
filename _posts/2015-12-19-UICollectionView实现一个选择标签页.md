@@ -10,12 +10,12 @@ title: 'UICollectionView实现一个选择标签页'
 	
 
 先上图	
-![](https://github.com/raozhizhen/raozhizhen/blob/master/image.png) 
+![](https://github.com/raozhizhen/raozhizhen.github.io/blob/master/blogImage/LPSelectTagImage.png?raw=true) 
 
 
 gif录制用的是[licecap](http://www.cockos.com/licecap/)不是很清晰啊，有更好的推荐的留言哈
 
-![](https://github.com/Light2015/SelectTag/blob/master/selectTagGif.gif) 
+![](https://github.com/raozhizhen/raozhizhen.github.io/blob/master/blogImage/LPSelectTagGif.gif?raw=true) 
 
 首先封装了一个通用一点的选择标签的collectionView
 
