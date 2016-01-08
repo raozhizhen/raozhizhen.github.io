@@ -6,5 +6,6 @@ title: '花了一周封装的LPPhotoKit'
 
 	先上个gif图
 	
-	![](https://github.com/raozhizhen/raozhizhen.github.io/blob/master/blogImage/LPPhotoKitGif.gif?raw=true) 
+	
+![](https://github.com/raozhizhen/raozhizhen.github.io/blob/master/blogImage/LPPhotoKitGif.gif?raw=true) 
 	
