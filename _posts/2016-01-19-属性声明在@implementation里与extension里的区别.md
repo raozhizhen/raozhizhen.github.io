@@ -56,8 +56,8 @@ Objective-C编译器指令是以@打头，它通常用来描述文件中的内�
 而直接声明实例变量的写法，即
 
 	@interface Car () {
-
- 	   Engine *_engine;
+	
+	     Engine *_engine;
 	}
 	
 	@end
@@ -66,7 +66,7 @@ Objective-C编译器指令是以@打头，它通常用来描述文件中的内�
 
 	@implementation Car {
 	
-   		 Engine *_engine;
+	    Engine *_engine;
 	}
 
 	@end
